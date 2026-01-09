@@ -10,7 +10,7 @@
 
 | | 脚本名称 | 脚本功能 | 安装 |
 | :----: | :---- | :---- | :----: |
-| ![](https://www.neatdownloadmanager.com/templates/neat/favicon.ico) | **Hide NDM Video Download Button** | 移除 Neat Download Manager 插件注入的下载浮层 | **[安装](https://github.com/tasselx/UserScript/blob/master/Hide%20NDM%20Video%20Download%20Button.js)** |
+| ![](https://neatdownloadmanager.com/templates/neat/favicon.ico) | **Hide NDM Video Download Button** | 移除 Neat Download Manager 插件注入的下载浮层 | **[安装](https://github.com/tasselx/UserScript/blob/master/Hide%20NDM%20Video%20Download%20Button.js)** |
 
 ## 许可证
 
